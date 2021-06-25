@@ -1,0 +1,32 @@
+[
+	{
+        "Name": "Molly",
+		"interest1": "sports",
+		"interest2": "music",
+        "interest3": "cooking"
+	},
+	{
+        "Name": "Bill",
+		"interest1": "religion",
+		"interest2": "art",
+        "interest3": "music"
+	},
+	{
+        "Name": "Ryan",
+		"interest1": "sports",
+		"interest2": "music",
+        "interest3": "running"
+	},
+	{
+        "Name": "Katie",
+		"interest1": "swimming",
+		"interest2": "art",
+        "interest3": "running"
+	},
+	{
+        "Name": "Olivia",
+		"interest1": "service",
+		"interest2": "biking",
+        "interest3": "religion"
+	}
+]
