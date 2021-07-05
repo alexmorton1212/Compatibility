@@ -1,5 +1,3 @@
-# CareYaya_MatchingAlgorithm
+# Compatibility Calculator
 
-### Is not set up to pull all data from a database. Most functions just take user input in the terminal.
-
-### matching.py gives a total compatibility score  (combines all the predict_(...).py functions)
+### Fun thing I did... takes paragraphs of writing from someone and their hometown to produce a score based on personality and ideology predictions
